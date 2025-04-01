@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+
+button{
+    cursor: pointer;
+    padding: 0.25rem;
+    margin: 0.15rem;
+    background-color: grey;
+    border: 0.15rem black solid;
+}
+
+button:hover{
+    background-color: darkgrey;
+}
