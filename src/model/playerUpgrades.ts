@@ -1,7 +1,4 @@
 export interface PlayerUpgrade{
-    name: string,
-    cost: number,
+    upgradeId : number,
     purchasedCount: number,
-    multiplier : number,
-    description : string
 }
